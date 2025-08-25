@@ -2,16 +2,16 @@
 
 int main(void)
 {
-	int age, score; // Á¤¼ö º¯¼ö ¼±¾ğ¹® 
+	int age, score; // ì •ìˆ˜ ë³€ìˆ˜ ì„ ì–¸ë¬¸ 
 	
 	
-	printf("³ªÀÌ°¡ ¾î¶»°Ô µÇ¼¼¿ä?");
+	printf("ë‚˜ì´ê°€ ì–´ë–»ê²Œ ë˜ì„¸ìš”?");
 	scanf("%d", &age);
-	printf("Á¡¼ö´Â¿ä?");
+	printf("ì ìˆ˜ëŠ”ìš”?");
 	scanf("%d", &score);
 	printf("My age : %d \n", age);
 	printf("%d is my point \n", 100);
-	printf("Good \nmoning \neverybody");
+	//printf("Good \nmoning \neverybody");
 	
 	
 	//printf("My age : %d \n%d is my point \nGood \nmoning \neverybody", 25, 100);
